@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "todo-demo-app-ng": {
+      "hosting": {
+        "fb-demo-app": [
+          "todo-demo-app-ng"
+        ]
+      }
+    }
+  }
+}
